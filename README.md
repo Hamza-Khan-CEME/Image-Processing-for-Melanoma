@@ -11,4 +11,6 @@ Use box plots and scatter plots to visually see the distribution of a feature ag
 4.
 Do analysis on these plots and find out optimal values of threshold/condition which best segregate the cases.
 5.
-Use your finalized scheme to see its effectiveness on remaining 20% data which was separated out in step-1. Calculate overall accuracy of the solution using this 20% data where accuracy is the ratio of truly detected image and total images.[Assignment-1.pdf](https://github.com/user-attachments/files/18307961/Assignment-1.pdf)
+Use your finalized scheme to see its effectiveness on remaining 20% data which was separated out in step-1. Calculate overall accuracy of the solution using this 20% data where accuracy is the ratio of truly detected image and total images.[melanoma.pdf](https://github.com/user-attachments/files/18307982/melanoma.pdf)
+
+
